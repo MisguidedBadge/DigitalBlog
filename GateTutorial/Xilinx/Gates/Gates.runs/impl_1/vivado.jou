@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Feb 15 05:26:37 2022
+# Process ID: 6244
+# Current directory: C:/Users/Peter/Desktop/programming/Blogging/GateTutorial/VerilogProject/Gates/Gates.runs/impl_1
+# Command line: vivado.exe -log Gates.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Gates.tcl -notrace
+# Log file: C:/Users/Peter/Desktop/programming/Blogging/GateTutorial/VerilogProject/Gates/Gates.runs/impl_1/Gates.vdi
+# Journal file: C:/Users/Peter/Desktop/programming/Blogging/GateTutorial/VerilogProject/Gates/Gates.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Gates.tcl -notrace
