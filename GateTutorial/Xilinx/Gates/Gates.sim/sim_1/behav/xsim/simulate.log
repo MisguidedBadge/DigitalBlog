@@ -1,0 +1,11 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Test Output: 0 , 0, 0, 0, 0
+Test Output: 0 , 0, 1, 0, 0
+Test Output: 0 , 1, 0, 0, 0
+Test Output: 0 , 1, 1, 1, 0
+Test Output: 1 , 0, 0, 0, 1
+Test Output: 1 , 0, 1, 1, 0
+Test Output: 1 , 1, 0, 1, 1
+Test Output: 1 , 1, 1, 1, 1
+$finish called at time : 180 ns : File "C:/Users/Peter/Desktop/programming/Blogging/DigitalBlog/GateTutorial/Xilinx/Gates/Gates.srcs/sim_1/new/Gates_tb.v" Line 29
