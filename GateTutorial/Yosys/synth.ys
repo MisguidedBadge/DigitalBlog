@@ -1,5 +1,5 @@
 read -sv ./*.v
 hierarchy -top Gates
 proc; opt; techmap; opt
-write_verilog gates.v
+write_verilog gates_synth.v
 
