@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.15)  15 FEB 2022 06:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.15)  16 FEB 2022 00:26
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./Lab1_MP.tex
-(Lab1_MP.tex
+**/home/misguidedbadge/Desktop/Projects/Blogging/DigitalBlog/ExampleLaTeX/Lab1_MP.tex
+(/home/misguidedbadge/Desktop/Projects/Blogging/DigitalBlog/ExampleLaTeX/Lab1_MP.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-05>
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2022-02-05> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -22,42 +22,31 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-)
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-)
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
-)
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-)
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-)
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
 \l__pdf_internal_box=\box50
@@ -66,7 +55,7 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [24pt].
 
-(Lab1_MP.aux
+(./Lab1_MP.aux
 
 LaTeX Warning: Label `fig:Linear Result' multiply defined.
 
@@ -87,9 +76,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+ (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count194
 \scratchdimen=\dimen141
@@ -102,16 +89,11 @@ ii
 \MPnumerator=\count198
 \makeMPintoPDFobject=\count199
 \everyMPtoPDFconversion=\toks20
-)
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\Peter\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 14.
@@ -119,7 +101,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
- (Lab1_MP.toc)
+ (./Lab1_MP.toc)
 \tf@toc=\write3
 \openout3 = `Lab1_MP.toc'.
 
@@ -135,87 +117,77 @@ Package pdftex.def Info: Lab1Img/CTensor_Result.png  used on input line 25.
 (pdftex.def)             Requested size: 241.49895pt x 189.39919pt.
  [1
 
-{C:/Users/Peter/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Lab1Img/CT
-ensor_Code.png>]
-<Lab1Img/TensorOperation_Code.png, id=14, 523.20468pt x 447.17062pt>
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Lab1Img/CTensor_Code.PNG>]
+<Lab1Img/TensorOperation_Code.png, id=15, 523.20468pt x 447.17062pt>
 File: Lab1Img/TensorOperation_Code.png Graphic file (type png)
 <use Lab1Img/TensorOperation_Code.png>
-Package pdftex.def Info: Lab1Img/TensorOperation_Code.png  used on input line 3
-4.
+Package pdftex.def Info: Lab1Img/TensorOperation_Code.png  used on input line 34.
 (pdftex.def)             Requested size: 241.49895pt x 206.39694pt.
-<Lab1Img/TensorOperation_result.png, id=15, 479.54156pt x 253.69781pt>
+<Lab1Img/TensorOperation_result.png, id=16, 479.54156pt x 253.69781pt>
 File: Lab1Img/TensorOperation_result.png Graphic file (type png)
 <use Lab1Img/TensorOperation_result.png>
-Package pdftex.def Info: Lab1Img/TensorOperation_result.png  used on input line
- 40.
+Package pdftex.def Info: Lab1Img/TensorOperation_result.png  used on input line 40.
 (pdftex.def)             Requested size: 241.49895pt x 127.76218pt.
-<Lab1Img/TensorReshaping.png, id=16, 552.56438pt x 467.49657pt>
+<Lab1Img/TensorReshaping.png, id=17, 552.56438pt x 467.49657pt>
 File: Lab1Img/TensorReshaping.png Graphic file (type png)
 <use Lab1Img/TensorReshaping.png>
 Package pdftex.def Info: Lab1Img/TensorReshaping.png  used on input line 46.
 (pdftex.def)             Requested size: 241.49895pt x 204.31523pt.
-<Lab1Img/TensorSlicing.png, id=17, 776.14969pt x 384.6872pt>
+<Lab1Img/TensorSlicing.png, id=18, 776.14969pt x 384.6872pt>
 File: Lab1Img/TensorSlicing.png Graphic file (type png)
 <use Lab1Img/TensorSlicing.png>
 Package pdftex.def Info: Lab1Img/TensorSlicing.png  used on input line 52.
 (pdftex.def)             Requested size: 241.49895pt x 119.69203pt.
- [2 <./Lab1Img/CTensor_Result.png>]
-[3 <./Lab1Img/TensorOperation_Code.png> <./Lab1Img/TensorOperation_result.png>]
-[4 <./Lab1Img/TensorReshaping.png> <./Lab1Img/TensorSlicing.png>]
-<Lab1Img/CUDA.png, id=32, 489.32813pt x 404.26031pt>
+ [2 <./Lab1Img/CTensor_Result.PNG>] [3 <./Lab1Img/TensorOperation_Code.PNG> <./Lab1Img/TensorOperation_Result.PNG>] [4 <./Lab1Img/TensorReshaping.PNG> <./Lab1Img/TensorSlicing.PNG>]
+<Lab1Img/CUDA.png, id=33, 489.32813pt x 404.26031pt>
 File: Lab1Img/CUDA.png Graphic file (type png)
 <use Lab1Img/CUDA.png>
 Package pdftex.def Info: Lab1Img/CUDA.png  used on input line 62.
 (pdftex.def)             Requested size: 241.49895pt x 199.52037pt.
-<Lab1Img/Gradience.png, id=33, 564.60938pt x 533.74406pt>
+<Lab1Img/Gradience.png, id=34, 564.60938pt x 533.74406pt>
 File: Lab1Img/Gradience.png Graphic file (type png)
 <use Lab1Img/Gradience.png>
 Package pdftex.def Info: Lab1Img/Gradience.png  used on input line 68.
 (pdftex.def)             Requested size: 241.49895pt x 228.30011pt.
  [5
 
- <./Lab1Img/CUDA.png>]
-<Lab1Img/Linear_Code.png, id=38, 554.82281pt x 516.42938pt>
+ <./Lab1Img/CUDA.PNG>]
+<Lab1Img/Linear_Code.png, id=39, 554.82281pt x 516.42938pt>
 File: Lab1Img/Linear_Code.png Graphic file (type png)
 <use Lab1Img/Linear_Code.png>
 Package pdftex.def Info: Lab1Img/Linear_Code.png  used on input line 79.
 (pdftex.def)             Requested size: 241.49895pt x 224.7868pt.
- [6 <./Lab1Img/Gradience.png>] [7 <./Lab1Img/Linear_Code.png>]
-<Lab1Img/Linear_R1.png, id=48, 339.51843pt x 444.91219pt>
+ [6 <./Lab1Img/Gradience.PNG>] [7 <./Lab1Img/Linear_Code.PNG>]
+<Lab1Img/Linear_R1.png, id=49, 339.51843pt x 444.91219pt>
 File: Lab1Img/Linear_R1.png Graphic file (type png)
 <use Lab1Img/Linear_R1.png>
 Package pdftex.def Info: Lab1Img/Linear_R1.png  used on input line 87.
 (pdftex.def)             Requested size: 241.49895pt x 316.4669pt.
-<Lab1Img/Linear_R2.png, id=49, 365.86688pt x 237.13594pt>
+<Lab1Img/Linear_R2.png, id=50, 365.86688pt x 237.13594pt>
 File: Lab1Img/Linear_R2.png Graphic file (type png)
 <use Lab1Img/Linear_R2.png>
 Package pdftex.def Info: Lab1Img/Linear_R2.png  used on input line 95.
 (pdftex.def)             Requested size: 241.49895pt x 156.52827pt.
+ [8
 
-[8
-
- <./Lab1Img/Linear_R1.png>] [9 <./Lab1Img/Linear_R2.png>] (Lab1_MP.aux)
+ <./Lab1Img/Linear_R1.PNG>] [9 <./Lab1Img/Linear_R2.PNG>] (./Lab1_MP.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1482 strings out of 478584
- 26678 string characters out of 2844401
- 312085 words of memory out of 3000000
- 19679 multiletter control sequences out of 15000+600000
+ 1480 strings out of 478278
+ 26338 string characters out of 5846561
+ 312530 words of memory out of 5000000
+ 19698 multiletter control sequences out of 15000+600000
  473207 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,62p,731b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/Peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx10.pfb><C:/Users/Peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb><C:/Users/Peter/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/Users/Peter/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Peter/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Lab1_MP.pdf (9 pages, 288690 bytes).
+ 55i,7n,62p,801b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Lab1_MP.pdf (9 pages, 282550 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
