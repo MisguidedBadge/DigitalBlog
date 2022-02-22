@@ -1,0 +1,74 @@
+$date
+	Sat Feb 19 15:34:44 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Gates_tb $end
+$var wire 1 ! out $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ c $end
+$var reg 1 % out_t $end
+$var integer 32 & i [31:0] $end
+$scope module DUT $end
+$var wire 1 " a $end
+$var wire 1 ' and_out $end
+$var wire 1 # b $end
+$var wire 1 $ c $end
+$var wire 1 ( or_out $end
+$var wire 1 ! out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+b0 &
+0%
+0$
+0#
+0"
+0!
+$end
+#20000
+b1 &
+#40000
+b10 &
+1$
+#60000
+1(
+b11 &
+1#
+0$
+#80000
+1!
+b100 &
+1$
+1%
+#100000
+0!
+b101 &
+1"
+0#
+0$
+0%
+#120000
+1!
+b110 &
+1$
+1%
+#140000
+1!
+1'
+b111 &
+1#
+0$
+#160000
+b1000 &
+1$
+#180000
